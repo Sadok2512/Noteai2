@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pymongo
+PyJWT
+pydub
+requests
+python-multipart
+python-jose
